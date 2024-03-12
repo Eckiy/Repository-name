@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: f9530f959a64b624da770d6ed26161ec
+  productGUID: 736e73395608e6640b77e29debdc993e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: My project
+  productName: Witch
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -627,14 +627,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: My project
+  metroPackageName: Witch
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: My project
+  metroApplicationDescription: Witch
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -702,10 +702,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 2db6b8c2-4044-406d-8175-ae9ce8319a4e
+  cloudProjectId: e5fb91c5-eac7-463c-84f1-89004592a147
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: My project
+  projectName: Witch
   organizationId: eckyy
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
